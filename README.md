@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 😄 I'm very interested in AI
-- ⚡ I’m currently working on python
-- 💬 currently learning about advanced Python programming and artificial intelligence mathematics
+- 😄 I'm very interested in AI 
+- ⚡ currently learning about advanced Python programming and artificial intelligence mathematics
 
 
 ## Skills

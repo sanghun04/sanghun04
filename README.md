@@ -9,7 +9,6 @@
 
 
 ### Languages
-
 <a href="#3776AB" target="_blank"><img src="https://img.shields.io/badge/python-green?style=flat-square&logo=#3776AB&logoColor=white"/></a>
 <a href="#A8B9CC" target="_blank"><img src="https://img.shields.io/badge/C-yellow?style=flat-square&logo=#3776AB&logoColor=white"/></a>
 

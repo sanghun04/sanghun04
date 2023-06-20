@@ -2,7 +2,7 @@
 
 
 - 😄 I'm very interested in AI 
-- ⚡ currently learning about advanced Python programming and artificial intelligence mathematics
+- ⚡ I am majoring in artificial intelligence
 
 
 ## Skills

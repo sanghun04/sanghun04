@@ -4,6 +4,12 @@
 - 😄 I'm very interested in AI 
 - ⚡ I am majoring in artificial intelligence
 
+## ✨ACHIEVEMENTS
+2024 빅데이터혁신융합대학사업 동계 빅데이터 AWS 캠프 - 대상
+2023 AI융합 문제발굴 산학연계 해커톤 - 은상
+2023 CO-Data Station 데이터톤 - 대상
+2022 IBM P-TECH Vlog Competition : Award of Achievement (Rank 1)
+2021 CALL FOR CODE P-TECH Challenge - Award of Achievement (Rank 3 in Korea)
 
 ## Skills
 ### Languages

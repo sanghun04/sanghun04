@@ -5,7 +5,7 @@
 - ⚡ I am majoring in artificial intelligence
 
 ## ✨Experience and career in experience
-- 2024.07.29 ~ - IBM 인턴 활동(IBM SaaS Project Intern)
+- 2024.07.29 ~ 2024.08.23- IBM 인턴 활동(IBM SaaS Project Intern)
 - 2024.04.01 ~ - 빅데이터 혁신융합대학 홍보 서포터즈 활동
 - 2024.03.30 ~ 2024.07.19 - 머니투데이 모빌리티X플랫폼 서비스 대기업 실무 프로젝트(티맵, 국가철도공단)
 - 2024.02.14 ~ - 인공지능학과 학회장 활동
